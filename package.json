@@ -1,0 +1,11 @@
+{
+  "name": "inotebook-server",
+  "version": "1.0.0",
+  "description": "This app is backend for inotebook application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aayush nehra",
+  "license": "ISC"
+}
